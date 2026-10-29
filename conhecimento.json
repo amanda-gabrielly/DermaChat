@@ -1,0 +1,1198 @@
+[
+  {
+    "assunto": "saudacao",
+    "palavras_chave": [
+      "oi",
+      "ola",
+      "olá",
+      "bom dia",
+      "boa tarde",
+      "boa noite",
+      "tudo bem",
+      "oi tudo bem",
+      "e ai",
+      "e aí",
+      "hello",
+      "inicio da conversa"
+    ],
+    "resposta": "Oi! 🌿 Tudo bem por aqui. Sou o DermaChat, um assistente educativo sobre cuidados com a pele. Posso explicar rotinas de skincare, ingredientes, limpeza, hidratação, proteção solar e cuidados gerais. Como posso ajudar você hoje?"
+  },
+  {
+    "assunto": "limpeza facial",
+    "palavras_chave": [
+      "limpar o rosto",
+      "sabonete facial",
+      "gel de limpeza",
+      "espuma facial",
+      "lavar o rosto",
+      "limpeza da pele",
+      "rosto sujo",
+      "oleosidade e limpeza",
+      "limpeza matinal",
+      "limpeza noturna"
+    ],
+    "resposta": "A limpeza remove suor, resíduos, poluição, maquiagem e excesso de oleosidade sem precisar deixar a pele repuxando. Em geral, lave o rosto de manhã e à noite com um limpador suave adequado ao seu tipo de pele e água morna ou fresca. Evite água muito quente, esponjas abrasivas e esfregar com força. Se a pele ficar ardendo, descamando ou muito repuxada, o produto pode estar agressivo ou a frequência excessiva. À noite, remova maquiagem e protetor solar antes de dormir."
+  },
+  {
+    "assunto": "oleo de limpeza e dupla limpeza",
+    "palavras_chave": [
+      "óleo de limpeza",
+      "oleo de limpeza",
+      "cleansing oil",
+      "bálsamo de limpeza",
+      "balm demaquilante",
+      "double cleansing",
+      "dupla limpeza",
+      "tirar maquiagem à prova d agua",
+      "remover protetor resistente à água"
+    ],
+    "resposta": "Óleo de limpeza e bálsamo desmaquilante ajudam a dissolver maquiagem resistente, protetor solar resistente à água e resíduos oleosos. Normalmente são aplicados com as mãos secas sobre o rosto seco, massageados suavemente e depois emulsificados com água conforme as instruções do fabricante. Se necessário, finalize com um limpador aquoso suave. A dupla limpeza não é obrigatória para todo mundo; se um único produto remove bem os resíduos sem irritar, pode ser suficiente. Suspenda se houver irritação ou piora persistente da acne."
+  },
+  {
+    "assunto": "agua micelar",
+    "palavras_chave": [
+      "água micelar",
+      "agua micelar",
+      "micelar",
+      "demaquilante suave",
+      "limpar sem sabonete",
+      "pele intolerante a sabonete"
+    ],
+    "resposta": "A água micelar contém agentes de limpeza que ajudam a remover impurezas, oleosidade e maquiagem leve. Passe delicadamente com algodão ou disco reutilizável, sem esfregar a pele. Alguns produtos podem ser enxaguados ou deixados na pele conforme o rótulo; se sua pele for sensível, arder ou ficar repuxada, enxágue e suspenda o produto. Para maquiagem pesada ou protetor resistente à água, talvez seja necessário um removedor específico."
+  },
+  {
+    "assunto": "hidratacao",
+    "palavras_chave": [
+      "hidratação",
+      "hidratacao",
+      "hidratar a pele",
+      "creme hidratante",
+      "pele desidratada",
+      "rosto ressecado",
+      "pele repuxando",
+      "hidratante facial",
+      "como hidratar o rosto",
+      "o que passo para hidratar"
+    ],
+    "resposta": "A hidratação ajuda a reduzir a perda de água e a manter a barreira cutânea. Aplique um hidratante adequado ao seu tipo de pele após a limpeza; fórmulas com glicerina, ácido hialurônico, ceramidas ou pantenol podem ser úteis. Pele oleosa também precisa de hidratação: prefira texturas leves, como gel-creme, se forem confortáveis para você. Pele seca costuma tolerar melhor cremes mais ricos. Aplicar com a pele levemente úmida pode ajudar. Ardor persistente, fissuras ou descamação intensa merecem avaliação profissional."
+  },
+  {
+    "assunto": "pele oleosa",
+    "palavras_chave": [
+      "pele oleosa",
+      "rosto oleoso",
+      "rosto muito oleoso",
+      "meu rosto está muito oleoso",
+      "meu rosto fica oleoso",
+      "meu rosto fica brilhante demais",
+      "rosto brilhante",
+      "rosto brilhando",
+      "pele brilhante",
+      "brilho excessivo",
+      "muito brilho no rosto",
+      "excesso de brilho",
+      "oleosidade excessiva",
+      "controlar a oleosidade",
+      "diminuir o brilho do rosto",
+      "testa oleosa",
+      "nariz oleoso",
+      "zona t oleosa",
+      "oleosidade",
+      "oleoso",
+      "oleosa"
+    ],
+    "resposta": "O brilho costuma estar relacionado à produção de sebo, mas não significa que a pele esteja suja. Lave o rosto suavemente até duas vezes ao dia, use hidratante leve e protetor solar não comedogênico, conforme as indicações do produto. Ingredientes como niacinamida ou ácido salicílico podem ajudar algumas pessoas, mas devem ser introduzidos gradualmente e conforme a tolerância da pele. Evite lavar repetidamente, usar álcool ou esfoliar em excesso, pois isso pode irritar a pele e prejudicar sua barreira de proteção. Se houver acne dolorosa ou persistente, procure um dermatologista."
+  },
+  {
+    "assunto": "pele seca",
+    "palavras_chave": [
+      "pele seca",
+      "rosto seco",
+      "ressecamento",
+      "descamação",
+      "descamacao",
+      "pele áspera",
+      "pele aspera",
+      "repuxamento",
+      "rachaduras na pele"
+    ],
+    "resposta": "Para pele seca, priorize um limpador suave, banhos não muito quentes e hidratante cremoso com ingredientes como ceramidas, glicerina ou petrolato, se bem tolerados. Aplique o hidratante logo após lavar, com a pele levemente úmida. Evite esfoliantes frequentes, fragrâncias se causarem irritação e produtos que deixem a pele repuxada. Se houver coceira intensa, fissuras, sangramento ou vermelhidão persistente, busque avaliação profissional."
+  },
+  {
+    "assunto": "pele sensivel",
+    "palavras_chave": [
+      "pele sensível",
+      "pele sensivel",
+      "ardência",
+      "ardencia",
+      "vermelhidão",
+      "vermelhidao",
+      "irritação",
+      "irritacao",
+      "pele reativa",
+      "rosto queimando",
+      "produto arde"
+    ],
+    "resposta": "Pele sensível pode reagir com ardor, vermelhidão, coceira ou sensação de repuxamento. Simplifique a rotina: limpador suave, hidratante sem fragrância se possível e protetor solar tolerado. Introduza apenas um produto novo por vez e faça teste em uma pequena área, entendendo que o teste não garante ausência de reação. Pause temporariamente os ativos que irritam. Inchaço, bolhas, dor importante, reação perto dos olhos ou dificuldade para respirar exigem atendimento médico; sintomas persistentes precisam de avaliação dermatológica."
+  },
+  {
+    "assunto": "protetor solar",
+    "palavras_chave": [
+      "protetor solar",
+      "fps",
+      "spf",
+      "proteção solar",
+      "protecao solar",
+      "reaplicar protetor",
+      "quantidade de protetor",
+      "filtro solar",
+      "uva uvb",
+      "protetor facial",
+      "protetor para rosto"
+    ],
+    "resposta": "O protetor solar ajuda a reduzir danos causados pela radiação UV, incluindo queimaduras, manchas, fotoenvelhecimento e risco de câncer de pele. Prefira amplo espectro e FPS 30 ou superior, conforme orientação de saúde local e necessidades individuais. Aplique quantidade generosa e uniforme no rosto, orelhas, pescoço e áreas expostas; a regra dos dois dedos é uma referência prática, mas o tamanho do rosto e o produto variam. Reaplique aproximadamente a cada duas horas quando estiver ao ar livre e após nadar, suar muito ou se secar com toalha, seguindo o rótulo. Sombra, roupas e chapéu também ajudam. Para melasma, um protetor com cor pode oferecer proteção adicional contra parte da luz visível."
+  },
+  {
+    "assunto": "vitamina c",
+    "palavras_chave": [
+      "vitamina c",
+      "vitamina c facial",
+      "sérum de vitamina c",
+      "serum vitamina c",
+      "antioxidante",
+      "manchas e vitamina c",
+      "luminosidade",
+      "vitamina c de manhã"
+    ],
+    "resposta": "A vitamina C tópica é um antioxidante que pode ajudar a complementar a proteção contra danos ambientais, melhorar a luminosidade e contribuir para a aparência de manchas e textura. Costuma ser usada pela manhã antes do hidratante e do protetor solar, mas siga as instruções do produto. Concentração maior não significa necessariamente melhor resultado e pode aumentar irritação; derivados e formulações variam. Comece aos poucos se sua pele for sensível. O sérum não substitui o protetor solar e não trata sozinho todas as causas de manchas."
+  },
+  {
+    "assunto": "niacinamida",
+    "palavras_chave": [
+      "niacinamida",
+      "niacinamide",
+      "vitamina b3",
+      "poros e niacinamida",
+      "oleosidade e niacinamida",
+      "niacinamida para manchas"
+    ],
+    "resposta": "A niacinamida, forma da vitamina B3, pode apoiar a barreira cutânea, ajudar a reduzir a aparência de oleosidade e vermelhidão e contribuir para uniformizar o tom. É encontrada em hidratantes e séruns. Use conforme o rótulo e introduza gradualmente, sobretudo se a concentração for alta ou sua pele for sensível. Se causar ardor, coceira ou vermelhidão persistente, suspenda. Nenhum ativo elimina poros permanentemente."
+  },
+  {
+    "assunto": "vitamina c e niacinamida juntas",
+    "palavras_chave": [
+      "vitamina c e niacinamida",
+      "posso usar vitamina c e niacinamida juntas",
+      "misturar vitamina c com niacinamida",
+      "niacinamida com vitamina c",
+      "usar juntas",
+      "combinar ativos"
+    ],
+    "resposta": "Em geral, vitamina C e niacinamida podem fazer parte da mesma rotina; não existe uma incompatibilidade universal entre elas nas formulações cosméticas atuais. Você pode aplicar um produto de cada vez, respeitando a ordem e as instruções do rótulo, ou usar um produto que já combine os ingredientes. Para reduzir irritação, introduza um ativo por vez e observe a tolerância. Pela manhã, finalize com protetor solar. Se houver ardor persistente, vermelhidão ou descamação, simplifique a rotina."
+  },
+  {
+    "assunto": "acido hialuronico",
+    "palavras_chave": [
+      "ácido hialurônico",
+      "acido hialuronico",
+      "hialurônico",
+      "hialuronico",
+      "hidratação com ácido hialurônico",
+      "linhas de desidratação"
+    ],
+    "resposta": "O ácido hialurônico é um umectante que ajuda a atrair e reter água na camada superficial da pele, melhorando temporariamente a sensação de hidratação e a aparência de linhas finas causadas por ressecamento. Pode ser usado por diferentes tipos de pele. Aplique conforme o rótulo e finalize com hidratante quando necessário para reduzir a perda de água. Ele não substitui um creme hidratante em todas as rotinas e não produz o mesmo efeito de um procedimento injetável."
+  },
+  {
+    "assunto": "ceramidas e pantenol",
+    "palavras_chave": [
+      "ceramidas",
+      "pantenol",
+      "dexpantenol",
+      "barreira cutânea",
+      "barreira cutanea",
+      "reparar a barreira",
+      "barreira da pele",
+      "pele sensibilizada"
+    ],
+    "resposta": "Ceramidas são lipídios que ajudam a manter a barreira da pele; o pantenol é um ingrediente umectante e condicionante frequentemente usado em fórmulas calmantes. Hidratantes com esses componentes podem ser úteis quando a pele está ressecada ou sensibilizada. Enquanto a pele se recupera, evite esfoliação, fragrâncias irritantes e a introdução de vários ativos ao mesmo tempo. Se a irritação for intensa ou não melhorar, procure orientação profissional."
+  },
+  {
+    "assunto": "acido salicilico",
+    "palavras_chave": [
+      "ácido salicílico",
+      "acido salicilico",
+      "salicílico",
+      "salicilico",
+      "bha",
+      "cravos",
+      "poros entupidos",
+      "espinhas e ácido salicílico",
+      "salicylic acid"
+    ],
+    "resposta": "O ácido salicílico é um beta-hidroxiácido (BHA) que ajuda a desobstruir poros e pode melhorar cravos e algumas formas de acne. A tolerância depende da concentração, do veículo e da frequência indicada no rótulo; não existe uma frequência única adequada para todos. Comece com uso menos frequente, evite combinar logo de início com vários esfoliantes ou retinoides e use protetor solar durante o dia. Suspenda se houver ardor importante, inchaço ou descamação intensa. Acne persistente, dolorosa ou com cicatrizes merece avaliação dermatológica."
+  },
+  {
+    "assunto": "acido glicolico",
+    "palavras_chave": [
+      "ácido glicólico",
+      "acido glicolico",
+      "glicólico",
+      "glicolico",
+      "aha",
+      "textura áspera",
+      "textura aspera",
+      "esfoliação química"
+    ],
+    "resposta": "O ácido glicólico é um alfa-hidroxiácido (AHA) usado para esfoliação química superficial e para melhorar gradualmente textura e aparência de manchas. Pode irritar, especialmente em concentrações altas ou uso frequente. Siga exatamente o rótulo, introduza com cautela e não combine inicialmente com outros ácidos, retinoides ou esfoliação física. Proteção solar é importante. Produtos de alta concentração e peelings profissionais devem ficar sob orientação de profissional habilitado."
+  },
+  {
+    "assunto": "acido mandelico",
+    "palavras_chave": [
+      "ácido mandélico",
+      "acido mandelico",
+      "mandélico",
+      "mandelico",
+      "mandelic acid",
+      "esfoliante suave"
+    ],
+    "resposta": "O ácido mandélico é um AHA usado em alguns produtos para melhorar textura, poros obstruídos e aparência de manchas. Sua molécula é maior que a do ácido glicólico, mas isso não garante ausência de irritação nem segurança automática para todos os tons de pele. Comece conforme o rótulo, sem combinar de início com vários ativos esfoliantes, e observe a resposta da pele. Manchas persistentes ou melasma precisam de avaliação profissional."
+  },
+  {
+    "assunto": "acido latico",
+    "palavras_chave": [
+      "ácido lático",
+      "acido latico",
+      "lático",
+      "latico",
+      "lactic acid",
+      "aha para pele seca"
+    ],
+    "resposta": "O ácido lático é um AHA que pode promover esfoliação superficial e também tem propriedades umectantes. Pode ser encontrado em fórmulas voltadas à textura irregular e ao ressecamento, mas ainda pode causar irritação. Use conforme o rótulo, introduza gradualmente e evite combiná-lo de início com outros ácidos ou retinoides. Mantenha a hidratação e a proteção solar."
+  },
+  {
+    "assunto": "acido azelaico",
+    "palavras_chave": [
+      "ácido azelaico",
+      "acido azelaico",
+      "azelaico",
+      "azelaic acid",
+      "rosácea",
+      "rosacea",
+      "vermelhidão e acne",
+      "manchas pós acne"
+    ],
+    "resposta": "O ácido azelaico pode ajudar em algumas formas de acne, vermelhidão associada à rosácea e hiperpigmentação. A concentração e a formulação influenciam a tolerância; podem ocorrer ardor, ressecamento ou coceira. Use conforme orientação do produto ou de um profissional. Na gravidez ou amamentação, confirme a escolha de qualquer tratamento com profissional de saúde, mesmo quando um ingrediente costuma ser considerado uma opção possível. Não use sobre pele muito irritada sem orientação."
+  },
+  {
+    "assunto": "retinol e retinoides",
+    "palavras_chave": [
+      "retinol",
+      "retinoide",
+      "retinoides",
+      "retinal",
+      "tretinoína",
+      "tretinoina",
+      "vitamina a",
+      "anti idade",
+      "rugas finas",
+      "renovação celular"
+    ],
+    "resposta": "Retinol e outros retinoides são derivados da vitamina A usados em cuidados com acne, textura e sinais de fotoenvelhecimento. A potência varia muito entre retinol cosmético e medicamentos retinoides; não há uma escala universal que permita definir a frequência apenas pela porcentagem. Introduza um produto por vez, em pequena quantidade e conforme o rótulo ou prescrição, reduzindo a frequência se houver irritação. Hidratante e protetor solar são importantes. Evite retinoides durante a gravidez ou tentativa de engravidar e converse com um profissional se estiver amamentando. Medicamentos como tretinoína exigem orientação médica."
+  },
+  {
+    "assunto": "ordem dos produtos",
+    "palavras_chave": [
+      "ordem dos produtos",
+      "ordem do skincare",
+      "qual produto vem primeiro",
+      "camadas de skincare",
+      "como aplicar os produtos",
+      "rotina de skincare",
+      "sequência skincare",
+      "sequencia skincare"
+    ],
+    "resposta": "Uma ordem simples costuma ser: de manhã, limpeza, tratamento opcional, hidratante e protetor solar por último. À noite, remoção de maquiagem ou protetor quando necessário, limpeza, tratamento escolhido e hidratante. Em geral, aplique do produto mais fluido para o mais cremoso, mas siga as instruções específicas de cada fórmula. Você não precisa de muitos produtos: consistência, tolerância e proteção solar importam mais do que uma rotina longa. Introduza ativos novos separadamente."
+  },
+  {
+    "assunto": "acne",
+    "palavras_chave": [
+      "acne",
+      "espinhas",
+      "espinha",
+      "cravos",
+      "comedões",
+      "comedoes",
+      "acne adulta",
+      "acne hormonal",
+      "espinhas inflamadas",
+      "acne no rosto"
+    ],
+    "resposta": "A acne pode envolver cravos, espinhas inflamadas e, em alguns casos, nódulos dolorosos. Limpeza suave, hidratante não comedogênico e protetor solar podem apoiar a rotina, mas o tratamento depende da gravidade e da causa. Evite espremer lesões e usar muitos ácidos ao mesmo tempo. Acne dolorosa, com nódulos, cicatrizes ou impacto emocional importante merece avaliação dermatológica. Não é possível diagnosticar a causa da acne apenas por sua localização."
+  },
+  {
+    "assunto": "esfoliacao",
+    "palavras_chave": [
+      "esfoliação",
+      "esfoliacao",
+      "esfoliar o rosto",
+      "esfoliante físico",
+      "esfoliante químico",
+      "pele áspera",
+      "remover células mortas"
+    ],
+    "resposta": "Esfoliantes físicos usam partículas ou atrito; os químicos usam ingredientes como AHA e BHA. Nem toda pele precisa de esfoliação, e mais frequência não significa melhores resultados. Excesso pode causar ardor, vermelhidão, descamação e piora da barreira cutânea. Evite esfoliar pele irritada, ferida ou queimada pelo sol e não combine vários esfoliantes sem orientação. Siga as instruções do produto e use proteção solar."
+  },
+  {
+    "assunto": "peelings",
+    "palavras_chave": [
+      "peeling",
+      "peeling químico",
+      "peeling caseiro",
+      "peeling facial",
+      "peeling superficial",
+      "peeling médio",
+      "peeling profundo",
+      "pós peeling",
+      "pos peeling"
+    ],
+    "resposta": "Peelings promovem esfoliação controlada e variam de superficiais a procedimentos mais profundos, com riscos diferentes. Peelings médios e profundos exigem avaliação e execução por profissionais médicos habilitados; não são procedimentos para improvisar em casa. Para produtos cosméticos de uso doméstico, siga rigorosamente o rótulo e não aumente o tempo de aplicação: não existe um tempo máximo universal seguro. Não aplique sobre pele irritada, ferida ou recém-esfoliada e evite misturar ácidos. Após um peeling, siga as orientações específicas, proteja a pele do sol e não arranque a descamação. Dor intensa, bolhas, inchaço importante, secreção ou alteração de cor exigem avaliação médica."
+  },
+  {
+    "assunto": "manchas na pele",
+    "palavras_chave": [
+      "manchas",
+      "manchas na pele",
+      "melasma",
+      "hiperpigmentação",
+      "hiperpigmentacao",
+      "manchas de acne",
+      "marcas de espinhas",
+      "tom irregular",
+      "clarear manchas"
+    ],
+    "resposta": "Manchas podem ter causas diferentes, como melasma, marcas pós-inflamatórias, exposição solar ou outras condições. A proteção solar diária é uma parte central do cuidado; protetor com cor pode ser útil para algumas pessoas com melasma. Ingredientes como niacinamida, vitamina C e ácido azelaico podem ajudar em alguns casos, mas resultados levam tempo e dependem da causa. Evite receitas caseiras, limão e peelings agressivos, que podem provocar queimaduras e piorar a pigmentação. Manchas novas, que mudam, sangram, coçam muito ou têm aparência irregular precisam ser avaliadas."
+  },
+  {
+    "assunto": "agua e skincare",
+    "palavras_chave": [
+      "beber água",
+      "beber agua",
+      "água melhora a pele",
+      "agua melhora a pele",
+      "hidratação de dentro",
+      "quantidade de água",
+      "quantidade de agua"
+    ],
+    "resposta": "Manter uma hidratação adequada é importante para a saúde geral, mas beber água em excesso não elimina acne nem substitui um hidratante tópico. A necessidade de líquidos varia conforme clima, atividade física e condições de saúde. Para cuidar da barreira cutânea, combine hábitos saudáveis com limpeza suave, hidratante adequado e proteção solar."
+  },
+  {
+    "assunto": "maquiagem",
+    "palavras_chave": [
+      "maquiagem",
+      "dormir maquiada",
+      "maquiagem e acne",
+      "base facial",
+      "remover maquiagem",
+      "demaquilar",
+      "maquiagem com protetor"
+    ],
+    "resposta": "Se usar maquiagem, remova-a antes de dormir com um produto adequado e sem esfregar excessivamente. Escolha fórmulas rotuladas como não comedogênicas se tiver tendência à acne, mas observe a tolerância individual. Limpe pincéis e esponjas regularmente e não compartilhe produtos de olhos ou lábios. Maquiagem não substitui protetor solar, a menos que o produto também seja um protetor e seja aplicado em quantidade adequada."
+  },
+  {
+    "assunto": "teste de produto",
+    "palavras_chave": [
+      "teste de produto",
+      "testar produto novo",
+      "teste de contato",
+      "patch test",
+      "alergia a cosmético",
+      "reação a produto",
+      "reacao a produto"
+    ],
+    "resposta": "Ao introduzir um produto novo, experimente apenas um de cada vez e faça um teste em uma pequena área conforme as orientações do fabricante. Observe a pele por alguns dias, pois algumas reações são tardias; esse teste não garante que o produto não causará reação no rosto. Evite testar vários ativos simultaneamente. Se ocorrer ardor persistente, inchaço, coceira intensa ou bolhas, lave o produto, suspenda o uso e procure orientação médica; dificuldade para respirar ou inchaço de língua/garganta é emergência."
+  },
+  {
+    "assunto": "rotina da manha",
+    "palavras_chave": [
+      "rotina da manhã",
+      "rotina da manha",
+      "skincare matinal",
+      "skincare de manhã",
+      "cuidados pela manhã",
+      "rotina diurna"
+    ],
+    "resposta": "Uma rotina matinal básica pode ser: 1) limpeza suave, se necessária; 2) tratamento opcional, como vitamina C ou niacinamida, se já for bem tolerado; 3) hidratante; 4) protetor solar de amplo espectro. Você não precisa usar todos os ativos. Se sua pele for sensível, comece com limpeza, hidratação e proteção solar antes de adicionar tratamentos."
+  },
+  {
+    "assunto": "rotina da noite",
+    "palavras_chave": [
+      "rotina da noite",
+      "skincare noturno",
+      "skincare à noite",
+      "skincare a noite",
+      "cuidados noturnos",
+      "rotina noturna"
+    ],
+    "resposta": "À noite, remova maquiagem e protetor solar quando necessário, lave o rosto com um limpador suave e aplique o tratamento que sua pele tolera, seguido de hidratante. Retinoides e alguns ácidos são usados à noite, mas não precisam estar na rotina de todo mundo e não devem ser combinados indiscriminadamente. Introduza um produto de cada vez e reduza ou suspenda se houver irritação importante."
+  },
+  {
+    "assunto": "poros dilatados",
+    "palavras_chave": [
+      "poros dilatados",
+      "poros abertos",
+      "diminuir poros",
+      "fechar poros",
+      "poros visíveis",
+      "tamanho dos poros"
+    ],
+    "resposta": "Os poros são estruturas naturais e seu tamanho depende de fatores como genética, oleosidade e envelhecimento. Não é possível fechá-los permanentemente, mas limpeza suave, proteção solar e ingredientes como niacinamida ou ácido salicílico podem reduzir temporariamente sua aparência em algumas pessoas. Evite espremer cravos e usar produtos agressivos."
+  },
+  {
+    "assunto": "olheiras",
+    "palavras_chave": [
+      "olheiras",
+      "bolsas sob os olhos",
+      "círculos escuros",
+      "círculos escuros nos olhos",
+      "olhos inchados"
+    ],
+    "resposta": "Olheiras podem estar relacionadas a genética, pigmentação, vasos visíveis, anatomia, alergias ou sono, entre outros fatores. Compressas frias podem aliviar temporariamente o inchaço; protetor solar adequado e evitar fricção podem ajudar em alguns casos. A pele ao redor dos olhos é delicada, então não aplique ácidos ou retinoides perto dos olhos sem indicação específica. Mudança súbita, dor ou inchaço de um lado merece avaliação."
+  },
+  {
+    "assunto": "rosacea",
+    "palavras_chave": [
+      "rosácea",
+      "rosacea",
+      "rosto vermelho",
+      "vermelhidão facial",
+      "vasinhos no rosto",
+      "pele com vermelhidão"
+    ],
+    "resposta": "Rosácea pode causar vermelhidão persistente, vasos visíveis, ardor e, em algumas pessoas, lesões semelhantes à acne. A rotina costuma priorizar limpador suave, hidratante e protetor solar bem tolerados, evitando gatilhos individuais e produtos irritantes. Não é possível confirmar rosácea por conversa; procure dermatologista para diagnóstico e tratamento, especialmente se houver sintomas nos olhos."
+  },
+  {
+    "assunto": "dermatite e eczema",
+    "palavras_chave": [
+      "dermatite",
+      "eczema",
+      "coceira na pele",
+      "placas vermelhas",
+      "pele inflamada",
+      "descamação com coceira"
+    ],
+    "resposta": "Dermatite e eczema podem causar coceira, ressecamento, vermelhidão e descamação, mas há diferentes causas e tratamentos. Evite fragrâncias ou produtos que pareçam desencadear sintomas, use hidratante simples e não aplique ácidos ou peelings na área inflamada. Procure avaliação profissional para confirmar a causa e orientar o tratamento. Dor crescente, pus, febre ou vermelhidão que se espalha precisam de atendimento."
+  },
+  {
+    "assunto": "marcas de skincare",
+    "palavras_chave": [
+      "marcas de skincare",
+      "marcas de cosméticos",
+      "marcas de cosmeticos",
+      "principia",
+      "creamy",
+      "sallve",
+      "cerave",
+      "cetaphil",
+      "la roche posay",
+      "laroche posay",
+      "skinceuticals",
+      "dermage",
+      "the ordinary",
+      "neutrogena",
+      "loreal",
+      "l'oréal",
+      "bioré",
+      "biore",
+      "beauty of joseon",
+      "medicube"
+    ],
+    "resposta": "Há marcas com perfis e faixas de preço diferentes, como CeraVe, Cetaphil e La Roche-Posay, frequentemente associadas a cuidados de barreira e pele sensível; Principia, Creamy e The Ordinary, com foco em ativos; Sallve, Neutrogena e L'Oréal Paris, com linhas variadas; e marcas asiáticas como Bioré e Beauty of Joseon. Isso não significa que uma marca inteira seja adequada para todo mundo. Escolha pelo tipo de produto, ingredientes, tolerância, orçamento e regularização local. Confira a embalagem, instruções, validade e procedência, e desconfie de promessas de resultados garantidos."
+  },
+  {
+    "assunto": "combinar ativos",
+    "palavras_chave": [
+      "combinar ativos",
+      "misturar ácidos",
+      "quais ativos não misturar",
+      "ativos incompatíveis",
+      "retinol com ácido",
+      "ácidos juntos",
+      "usar dois séruns",
+      "usar varios ativos"
+    ],
+    "resposta": "Não existe uma lista universal de combinações proibidas para todos os produtos, mas usar vários ativos irritantes ao mesmo tempo aumenta o risco de ressecamento e inflamação. Tenha cuidado ao combinar retinoides com AHA/BHA, esfoliantes físicos ou fórmulas fortes, principalmente no início. Vitamina C e niacinamida geralmente podem ser usadas na mesma rotina se forem bem toleradas. Introduza um produto por vez, siga os rótulos e alterne noites quando necessário. Ardor persistente, vermelhidão ou descamação indicam que é hora de simplificar."
+  },
+  {
+    "assunto": "gravidez e amamentacao",
+    "palavras_chave": [
+      "gravidez e skincare",
+      "grávida pode usar retinol",
+      "gravida pode usar retinol",
+      "amamentação e skincare",
+      "amamentacao e skincare",
+      "ativos na gravidez",
+      "skincare na gravidez"
+    ],
+    "resposta": "Na gravidez, evite retinoides tópicos e medicamentos derivados da vitamina A, salvo orientação médica específica. Outros ingredientes e tratamentos devem ser conferidos com o obstetra ou dermatologista, pois segurança depende da substância, concentração, área de aplicação e contexto. Não faça peelings fortes nem inicie tratamentos de manchas ou acne sem orientação. Durante a amamentação, confirme individualmente quais produtos são apropriados e evite que o bebê entre em contato com áreas tratadas."
+  },
+  {
+    "assunto": "protetor solar pele oleosa",
+    "palavras_chave": [
+      "protetor solar para pele oleosa",
+      "protetor não oleoso",
+      "protetor nao oleoso",
+      "protetor matte",
+      "protetor toque seco",
+      "protetor que não deixa brilho",
+      "protetor que nao deixa brilho"
+    ],
+    "resposta": "Para pele oleosa, procure protetores de amplo espectro com textura que você goste, como fluida, gel-creme ou toque seco, e confira se o rótulo informa que são não comedogênicos quando isso for importante para você. Acabamento matte pode reduzir o brilho visível, mas não elimina a produção de sebo. Aplique quantidade suficiente e reaplique conforme exposição e instruções; usar pouco produto reduz a proteção."
+  },
+  {
+    "assunto": "protetor solar pele seca",
+    "palavras_chave": [
+      "protetor solar para pele seca",
+      "protetor hidratante",
+      "protetor que não resseca",
+      "protetor que nao resseca"
+    ],
+    "resposta": "Para pele seca, um protetor solar com textura cremosa ou ingredientes hidratantes pode ser mais confortável. Você também pode aplicar hidratante antes do protetor, deixando cada camada assentar conforme necessário. Escolha amplo espectro e FPS 30 ou superior e reaplique de acordo com a exposição e as instruções do rótulo. Se houver ardor, experimente outra fórmula e procure orientação se a reação persistir."
+  },
+  {
+    "assunto": "rotina simples para iniciantes",
+    "palavras_chave": [
+      "começar skincare",
+      "comecar skincare",
+      "skincare para iniciantes",
+      "rotina básica",
+      "rotina basica",
+      "não sei por onde começar",
+      "nao sei por onde comecar",
+      "quais produtos comprar primeiro"
+    ],
+    "resposta": "Para começar, mantenha a rotina simples: um limpador suave, um hidratante adequado e um protetor solar de amplo espectro. Use esses produtos consistentemente por algumas semanas, observando a tolerância. Só depois considere um tratamento direcionado para uma necessidade específica, como acne ou manchas, adicionando um produto de cada vez. Você não precisa comprar muitos produtos nem seguir uma rotina de várias etapas."
+  },
+  {
+    "assunto": "quando procurar dermatologista",
+    "palavras_chave": [
+      "quando ir ao dermatologista",
+      "preciso de dermatologista",
+      "acne grave",
+      "mancha que mudou",
+      "ferida que não cicatriza",
+      "reação grave",
+      "pele piorando"
+    ],
+    "resposta": "Procure dermatologista se a acne for dolorosa, profunda, persistente ou deixar cicatrizes; se houver manchas novas ou que mudam de forma, cor ou tamanho; se a pele apresentar inflamação persistente; ou se um tratamento causar reação importante. Procure atendimento rápido diante de dor intensa, bolhas extensas, inchaço importante, sinais de infecção ou reação perto dos olhos. Dificuldade para respirar ou inchaço de língua/garganta é emergência."
+  },
+  {
+    "assunto": "cuidados com a pele negra",
+    "palavras_chave": [
+      "pele negra",
+      "pele morena",
+      "manchas em pele negra",
+      "hiperpigmentação pele negra",
+      "hiperpigmentacao pele negra",
+      "ácidos pele negra",
+      "acidos pele negra"
+    ],
+    "resposta": "Em peles negras e morenas, a inflamação pode deixar manchas escuras persistentes, por isso é especialmente importante evitar irritação e procedimentos agressivos sem avaliação. A proteção solar continua importante; protetores com cor podem ajudar a proteger contra parte da luz visível em alguns casos de hiperpigmentação. Ácidos e peelings não são automaticamente seguros ou proibidos por causa do tom de pele: a escolha depende da condição, formulação e avaliação profissional."
+  },
+  {
+    "assunto": "protetor solar e maquiagem",
+    "palavras_chave": [
+      "maquiagem por cima do protetor",
+      "reaplicar protetor com maquiagem",
+      "protetor em cima da maquiagem",
+      "pó com fps",
+      "spray protetor maquiagem"
+    ],
+    "resposta": "Aplique o protetor solar em quantidade adequada antes da maquiagem e deixe a camada assentar. Maquiagem com FPS geralmente não substitui a quantidade de protetor necessária. Para reaplicar sobre maquiagem, use uma estratégia que permita aplicar produto suficiente, como retocar cuidadosamente com um protetor compatível; pós e sprays podem não fornecer proteção adequada se usados em pouca quantidade. Siga as instruções do produto e considere chapéu e sombra."
+  },
+  {
+    "assunto": "descamação após ativos",
+    "palavras_chave": [
+      "pele descamando depois de ácido",
+      "pele descamando com retinol",
+      "descamação após skincare",
+      "ardor depois de ácido",
+      "irritação por retinol"
+    ],
+    "resposta": "Descamação, ardor e vermelhidão após ácidos ou retinoides podem indicar irritação, não necessariamente que o produto está funcionando. Suspenda temporariamente o ativo irritante, evite esfoliação e use limpeza suave, hidratante simples e proteção solar. Não tente acelerar a descamação nem arranque pelinhas. Se houver dor intensa, bolhas, inchaço, feridas ou sintomas persistentes, procure atendimento médico."
+  },
+  {
+    "assunto": "receitas caseiras perigosas",
+    "palavras_chave": [
+      "limão no rosto",
+      "bicarbonato no rosto",
+      "pasta de dente na espinha",
+      "receita caseira para manchas",
+      "mistura caseira skincare",
+      "clarear com limão"
+    ],
+    "resposta": "Evite aplicar limão, bicarbonato, pasta de dente, água oxigenada ou misturas domésticas no rosto. Esses materiais podem irritar, causar queimaduras ou piorar manchas; o limão também pode provocar reação ao sol. Prefira produtos formulados para uso cutâneo e procure orientação profissional para acne, manchas ou irritações persistentes."
+  },
+  {
+    "assunto": "validade e armazenamento",
+    "palavras_chave": [
+      "validade de cosméticos",
+      "produto vencido",
+      "skincare vencido",
+      "armazenar sérum",
+      "guardar protetor solar",
+      "cosmético mudou de cheiro",
+      "produto mudou de cor"
+    ],
+    "resposta": "Confira a validade, o símbolo de período após abertura e as instruções de armazenamento. Mantenha os produtos bem fechados, longe de calor e sol direto, e não compartilhe cosméticos que entrem em contato com os olhos ou mucosas. Se houver mudança incomum de cheiro, cor ou textura, descarte o produto. Não use protetor solar vencido ou que tenha sido armazenado inadequadamente, pois sua eficácia pode estar comprometida."
+  },
+  {
+    "assunto": "pele seca",
+    "palavras_chave": [
+      "pele seca",
+      "rosto ressecado",
+      "pele descascando",
+      "descamacao",
+      "pele aspera",
+      "ressecamento facial"
+    ],
+    "resposta": "Para cuidar da pele seca, prefira um limpador suave e um hidratante com ingredientes como ceramidas, glicerina ou pantenol. Evite água muito quente e esfoliação excessiva. Se houver rachaduras, coceira intensa ou irritação persistente, procure um dermatologista."
+  },
+  {
+    "assunto": "pele sensivel",
+    "palavras_chave": [
+      "pele sensivel",
+      "rosto irritado",
+      "pele ardendo",
+      "vermelhidao",
+      "ardencia no rosto",
+      "produtos para pele sensivel"
+    ],
+    "resposta": "A pele sensível pode reagir com ardência, vermelhidão ou coceira. Prefira uma rotina simples, com produtos suaves e sem fragrância, e introduza novidades uma de cada vez. Faça um teste em uma pequena área antes de usar um produto novo no rosto. Se a reação for intensa ou persistente, suspenda o produto e procure orientação médica."
+  },
+  {
+    "assunto": "pele mista",
+    "palavras_chave": [
+      "pele mista",
+      "zona t oleosa",
+      "testa oleosa",
+      "nariz oleoso e bochecha seca",
+      "bochechas ressecadas"
+    ],
+    "resposta": "A pele mista costuma apresentar oleosidade na testa, no nariz e no queixo, enquanto outras áreas podem ser normais ou secas. Use um limpador suave e um hidratante leve. Se necessário, aplique produtos diferentes em regiões específicas, respeitando a reação de cada área."
+  },
+  {
+    "assunto": "niacinamida",
+    "palavras_chave": [
+      "niacinamida",
+      "vitamina b3",
+      "serum de niacinamida",
+      "niacinamida para oleosidade",
+      "niacinamida para manchas",
+      "niacinamida para poros"
+    ],
+    "resposta": "A niacinamida é uma forma de vitamina B3 utilizada em cosméticos. Ela pode ajudar na função de barreira da pele, na aparência da oleosidade e na uniformidade do tom. A concentração ideal depende da formulação e da tolerância individual. Comece conforme as instruções do fabricante e interrompa o uso se ocorrer irritação importante."
+  },
+  {
+    "assunto": "vitamina c",
+    "palavras_chave": [
+      "vitamina c",
+      "serum vitamina c",
+      "vitamina c facial",
+      "antioxidante facial",
+      "vitamina c para manchas",
+      "vitamina c para luminosidade"
+    ],
+    "resposta": "A vitamina C é um antioxidante usado em produtos faciais e pode contribuir para a luminosidade e a aparência de manchas. Muitas pessoas a utilizam pela manhã, antes do hidratante e do protetor solar, seguindo as instruções do produto. Ela não substitui o protetor solar. Se sua pele for sensível, introduza o produto aos poucos."
+  },
+  {
+    "assunto": "acido hialuronico",
+    "palavras_chave": [
+      "acido hialuronico",
+      "ácido hialurônico",
+      "serum hidratante",
+      "hidratacao profunda",
+      "acido hialuronico para pele"
+    ],
+    "resposta": "O ácido hialurônico é um ingrediente umectante que ajuda a atrair e reter água na pele, melhorando temporariamente a sensação de hidratação e o aspecto de linhas relacionadas ao ressecamento. Pode ser usado em diferentes tipos de pele. Aplique conforme as instruções do produto e finalize com hidratante se necessário."
+  },
+  {
+    "assunto": "ceramidas e pantenol",
+    "palavras_chave": [
+      "ceramidas",
+      "pantenol",
+      "vitamina b5",
+      "barreira cutanea",
+      "reparar barreira da pele",
+      "pele fragilizada"
+    ],
+    "resposta": "Ceramidas e pantenol são ingredientes comuns em produtos que ajudam a manter a barreira cutânea. Podem ser úteis quando a pele está ressecada ou desconfortável. Combine-os com uma limpeza suave e evite adicionar muitos ativos ao mesmo tempo. Se houver inflamação ou irritação persistente, procure orientação dermatológica."
+  },
+  {
+    "assunto": "protetor solar",
+    "palavras_chave": [
+      "protetor solar",
+      "fps",
+      "protecao solar",
+      "passar protetor",
+      "reaplicar protetor",
+      "protetor facial",
+      "protetor todos os dias"
+    ],
+    "resposta": "O protetor solar ajuda a proteger a pele dos danos causados pela radiação ultravioleta. Escolha um produto de amplo espectro, preferencialmente FPS 30 ou superior, e aplique em quantidade adequada conforme o rótulo. Reaplique aproximadamente a cada duas horas quando estiver ao ar livre e após nadar ou suar, seguindo as instruções do produto. Chapéus, sombra e roupas também ajudam na proteção."
+  }
+  
+,
+  {
+    "assunto": "acido salicilico",
+    "palavras_chave": [
+      "acido salicilico",
+      "salicilico",
+      "bha",
+      "acido para acne",
+      "acido para cravos",
+      "poros obstruidos"
+    ],
+    "resposta": "O ácido salicílico é um ingrediente esfoliante que pode ajudar a desobstruir os poros e melhorar cravos e algumas formas de acne. Pode causar ressecamento e irritação, especialmente quando combinado com outros ativos. Introduza-o gradualmente, seguindo o rótulo, e use protetor solar. Se a acne for intensa ou deixar cicatrizes, procure um dermatologista."
+  },
+  {
+    "assunto": "acido glicolico",
+    "palavras_chave": [
+      "acido glicolico",
+      "glicolico",
+      "aha",
+      "esfoliacao quimica",
+      "textura irregular",
+      "renovacao da pele"
+    ],
+    "resposta": "O ácido glicólico é um alfa-hidroxiácido (AHA) utilizado para melhorar a textura e a aparência de algumas manchas. Pode provocar irritação, principalmente em peles sensíveis ou quando usado em excesso. Siga as instruções do fabricante, não combine vários esfoliantes sem orientação e mantenha a proteção solar."
+  },
+  {
+    "assunto": "acido mandelico",
+    "palavras_chave": [
+      "acido mandelico",
+      "mandelico",
+      "aha para pele sensivel",
+      "acido mandelico para acne",
+      "acido mandelico para manchas"
+    ],
+    "resposta": "O ácido mandélico é um AHA usado em alguns produtos para melhorar a textura e a aparência de manchas e imperfeições. Mesmo sendo frequentemente apresentado como uma opção mais suave, pode irritar a pele. Comece com cautela, siga o rótulo e evite usá-lo junto de muitos outros ativos esfoliantes."
+  },
+  {
+    "assunto": "acido latico",
+    "palavras_chave": [
+      "acido latico",
+      "latico",
+      "acido lactico",
+      "pele ressecada e textura",
+      "aha hidratante"
+    ],
+    "resposta": "O ácido lático é um AHA que pode ajudar na esfoliação superficial e na melhora da textura. Algumas formulações também contribuem para a hidratação. A tolerância depende da concentração e do produto. Use conforme as instruções, evite combinar vários ácidos de uma vez e suspenda se houver irritação importante."
+  },
+  {
+    "assunto": "acido azelaico",
+    "palavras_chave": [
+      "acido azelaico",
+      "azelaico",
+      "acido para vermelhidao",
+      "acido para acne e manchas",
+      "azelaico para rosacea"
+    ],
+    "resposta": "O ácido azelaico é utilizado em tratamentos de acne, rosácea e algumas alterações de pigmentação. Os resultados variam de acordo com a condição e a formulação, e pode ocorrer ardência ou ressecamento. Use conforme orientação profissional ou instruções do produto. Na gravidez ou amamentação, confirme a segurança com seu profissional de saúde."
+  },
+  {
+    "assunto": "retinol e retinoides",
+    "palavras_chave": [
+      "retinol",
+      "retinoide",
+      "retinal",
+      "retinaldeido",
+      "anti idade",
+      "linhas finas",
+      "retinol para acne"
+    ],
+    "resposta": "Retinol e outros retinoides são ingredientes usados para tratar sinais de envelhecimento e, em algumas formulações, acne. Podem causar ressecamento, descamação e irritação. Introduza-os gradualmente, seguindo o rótulo e a orientação profissional. Retinoides tópicos devem ser evitados durante a gravidez e quando se está tentando engravidar; converse com um profissional de saúde sobre alternativas."
+  },
+  {
+    "assunto": "ordem dos produtos",
+    "palavras_chave": [
+      "ordem dos produtos",
+      "ordem do skincare",
+      "qual produto primeiro",
+      "sequencia skincare",
+      "o que passar primeiro",
+      "ordem de aplicacao"
+    ],
+    "resposta": "Uma ordem geral para a rotina é: limpeza, produtos de tratamento, hidratante e, pela manhã, protetor solar por último. A ordem pode variar conforme a formulação e as instruções dos produtos. Não é necessário usar muitos produtos: uma rotina simples e consistente costuma ser um bom começo."
+  },
+  {
+    "assunto": "acne",
+    "palavras_chave": [
+      "acne",
+      "espinhas",
+      "espinha",
+      "cravos",
+      "cravos pretos",
+      "cravos brancos",
+      "pele acneica",
+      "muitas espinhas"
+    ],
+    "resposta": "A acne pode envolver cravos, espinhas e lesões inflamadas. Uma rotina suave, hidratante não comedogênico e protetor solar podem ajudar no cuidado diário. Evite espremer as lesões e usar vários produtos agressivos ao mesmo tempo. Acne dolorosa, persistente ou que deixa cicatrizes merece avaliação dermatológica, pois pode precisar de tratamento específico."
+  },
+  {
+    "assunto": "esfoliacao",
+    "palavras_chave": [
+      "esfoliacao",
+      "esfoliar o rosto",
+      "esfoliante facial",
+      "esfoliante fisico",
+      "esfoliante quimico",
+      "pele sem viço"
+    ],
+    "resposta": "A esfoliação pode ajudar a melhorar a textura da pele, mas não é indispensável para todos. O excesso pode prejudicar a barreira cutânea e provocar ardência, vermelhidão e descamação. Evite esfoliar a pele irritada e não combine vários esfoliantes sem orientação. Se houver desconforto, suspenda o produto."
+  },
+  {
+    "assunto": "manchas na pele",
+    "palavras_chave": [
+      "manchas",
+      "manchas no rosto",
+      "manchas escuras",
+      "hiperpigmentacao",
+      "marcas de acne",
+      "manchas de espinhas",
+      "tom irregular"
+    ],
+    "resposta": "Manchas podem ter diferentes causas, como marcas deixadas pela acne, exposição solar ou alterações hormonais. A proteção solar diária é uma parte importante do cuidado. Ingredientes como niacinamida, vitamina C e ácido azelaico podem ajudar em alguns casos, mas a escolha depende da causa e da tolerância da pele. Manchas novas, que mudam de forma ou cor, ou que sangram devem ser avaliadas por um profissional de saúde."
+  },
+  {
+    "assunto": "melasma",
+    "palavras_chave": [
+      "melasma",
+      "manchas hormonais",
+      "manchas nas bochechas",
+      "manchas na testa",
+      "melasma no buco",
+      "melasma no rosto"
+    ],
+    "resposta": "O melasma é uma condição de pigmentação que pode ser influenciada por fatores hormonais e pela exposição à luz. O tratamento costuma exigir constância e orientação dermatológica. Protetor solar de amplo espectro, e em alguns casos com cor, pode ajudar na proteção. Evite receitas caseiras e tratamentos agressivos sem avaliação profissional."
+  },
+  {
+    "assunto": "teste de sensibilidade",
+    "palavras_chave": [
+      "teste de alergia",
+      "testar produto novo",
+      "teste de contato",
+      "teste de sensibilidade",
+      "reacao a cosmetico"
+    ],
+    "resposta": "Antes de usar um produto novo, siga as orientações de teste indicadas pelo fabricante e experimente em uma pequena área da pele, observando possíveis reações. Esse teste não garante que o produto nunca causará irritação ou alergia. Evite aplicar diretamente em pele ferida e suspenda o uso se aparecer uma reação."
+  }
+  
+,
+  {
+    "assunto": "rotina da manha",
+    "palavras_chave": [
+      "rotina da manha",
+      "skincare matinal",
+      "skincare de manha",
+      "rotina diurna",
+      "cuidados pela manha"
+    ],
+    "resposta": "Uma rotina matinal simples pode incluir: 1. limpeza suave; 2. sérum de tratamento, se necessário; 3. hidratante; 4. protetor solar. Você não precisa usar todos os tipos de produto. Escolha aqueles adequados à sua pele e introduza novos itens gradualmente."
+  },
+  {
+    "assunto": "rotina da noite",
+    "palavras_chave": [
+      "rotina da noite",
+      "skincare noturno",
+      "skincare antes de dormir",
+      "rotina noturna",
+      "cuidados noturnos"
+    ],
+    "resposta": "À noite, uma rotina básica pode incluir limpeza para remover protetor solar, maquiagem e resíduos, seguida de hidratante. Um ativo de tratamento pode ser acrescentado conforme sua necessidade e tolerância. Evite iniciar vários produtos novos ao mesmo tempo e não use ativos irritantes sobre a pele sensibilizada."
+  },
+  {
+    "assunto": "rotina para iniciantes",
+    "palavras_chave": [
+      "comecar skincare",
+      "skincare para iniciantes",
+      "rotina basica",
+      "primeiros produtos",
+      "nunca fiz skincare",
+      "quais produtos comprar"
+    ],
+    "resposta": "Se você está começando, priorize três produtos: um limpador suave, um hidratante adequado ao seu tipo de pele e um protetor solar de amplo espectro. Use essa rotina por algumas semanas para observar a tolerância. Depois, se houver uma necessidade específica, considere adicionar um produto de tratamento."
+  },
+  {
+    "assunto": "vitamina c e niacinamida",
+    "palavras_chave": [
+      "vitamina c e niacinamida",
+      "misturar vitamina c com niacinamida",
+      "usar vitamina c e niacinamida juntas",
+      "niacinamida com vitamina c",
+      "combinar vitamina c"
+    ],
+    "resposta": "Em geral, vitamina C e niacinamida podem ser usadas na mesma rotina. Não existe uma incompatibilidade universal entre esses ingredientes nas formulações cosméticas atuais. Se sua pele for sensível, introduza um produto de cada vez e observe a reação. A ordem depende da textura e das instruções de cada produto."
+  },
+  {
+    "assunto": "acidos combinados",
+    "palavras_chave": [
+      "misturar acidos",
+      "combinar acidos",
+      "usar dois acidos",
+      "acidos na mesma rotina",
+      "salicilico e glicolico",
+      "acido com retinol"
+    ],
+    "resposta": "Combinar ácidos esfoliantes ou usá-los junto de retinoides pode aumentar o risco de irritação, ressecamento e descamação. Isso não significa que toda combinação seja sempre proibida, mas depende das formulações e da tolerância individual. Evite começar vários ativos ao mesmo tempo e procure orientação profissional se tiver dúvidas."
+  },
+  {
+    "assunto": "poros dilatados",
+    "palavras_chave": [
+      "poros dilatados",
+      "poros grandes",
+      "diminuir poros",
+      "poros aparentes",
+      "poros abertos"
+    ],
+    "resposta": "O tamanho dos poros depende de fatores como genética, oleosidade e envelhecimento. Não é possível eliminá-los permanentemente, mas uma rotina adequada pode reduzir sua aparência. Limpeza suave, proteção solar e, para algumas pessoas, produtos com niacinamida ou ácido salicílico podem ajudar."
+  },
+  {
+    "assunto": "olheiras",
+    "palavras_chave": [
+      "olheiras",
+      "olheira escura",
+      "olheira profunda",
+      "bolsas nos olhos",
+      "area dos olhos escura"
+    ],
+    "resposta": "As olheiras podem estar relacionadas à genética, pigmentação, vasos sanguíneos visíveis, perda de volume ou outros fatores. Dormir bem e tratar alergias quando presentes pode ajudar em alguns casos. Hidratantes podem melhorar o aspecto do ressecamento, mas nem todos os tipos de olheira respondem a cosméticos. Se surgirem mudanças repentinas ou sintomas incomuns, procure avaliação médica."
+  },
+  {
+    "assunto": "rosacea",
+    "palavras_chave": [
+      "rosacea",
+      "rosto sempre vermelho",
+      "vermelhidao persistente",
+      "vasinhos no rosto",
+      "pele com rosacea"
+    ],
+    "resposta": "A rosácea pode causar vermelhidão persistente, sensibilidade e, em algumas pessoas, lesões semelhantes à acne. Prefira limpeza suave, hidratante sem fragrância e proteção solar. Calor, bebidas quentes, álcool e alguns produtos podem desencadear sintomas em determinadas pessoas. Um dermatologista pode confirmar o diagnóstico e orientar o tratamento."
+  },
+  {
+    "assunto": "dermatite e eczema",
+    "palavras_chave": [
+      "dermatite",
+      "eczema",
+      "coceira no rosto",
+      "pele inflamada",
+      "descamacao com coceira",
+      "dermatite de contato"
+    ],
+    "resposta": "Dermatite e eczema podem causar coceira, vermelhidão, ressecamento e inflamação. Durante uma crise, evite esfoliantes, fragrâncias e ativos que irritem a pele. Use produtos suaves e procure orientação médica para identificar a causa e o tratamento adequado. Inchaço importante, dificuldade para respirar ou reação intensa exigem atendimento urgente."
+  },
+  {
+    "assunto": "skincare na gravidez",
+    "palavras_chave": [
+      "skincare na gravidez",
+      "gravida pode usar retinol",
+      "produtos na gravidez",
+      "acidos na gravidez",
+      "skincare para gestante",
+      "amamentacao e skincare"
+    ],
+    "resposta": "Durante a gravidez e a amamentação, a escolha de cosméticos merece atenção especial. Retinoides devem ser evitados durante a gravidez e ao tentar engravidar. A segurança de outros ativos depende do ingrediente, da concentração e da situação individual. Converse com seu obstetra ou dermatologista antes de iniciar tratamentos, especialmente produtos medicamentosos ou peelings."
+  },
+  {
+    "assunto": "pele negra e manchas",
+    "palavras_chave": [
+      "pele negra",
+      "manchas em pele negra",
+      "hiperpigmentacao em pele escura",
+      "marcas escuras de acne",
+      "manchas pos inflamatorias"
+    ],
+    "resposta": "Peles negras e outros tons de pele mais escuros podem apresentar hiperpigmentação após inflamações, como acne ou irritação causada por cosméticos. Evite espremer espinhas e usar tratamentos agressivos. A proteção solar continua importante; protetores com cor e óxidos de ferro podem oferecer proteção adicional contra parte da luz visível. Um dermatologista pode orientar o tratamento de manchas persistentes."
+  },
+  {
+    "assunto": "protetor solar e maquiagem",
+    "palavras_chave": [
+      "protetor solar antes da maquiagem",
+      "maquiagem por cima do protetor",
+      "protetor com maquiagem",
+      "reaplicar protetor maquiada",
+      "protetor solar e base"
+    ],
+    "resposta": "Em geral, aplique o protetor solar antes da maquiagem e respeite o tempo indicado no rótulo para formar a película. Depois, aplique a maquiagem sem esfregar excessivamente. Para reaplicar, prefira um método que permita manter uma quantidade adequada de protetor; pó com FPS, isoladamente, pode não fornecer proteção suficiente."
+  },
+  {
+    "assunto": "irritacao por cosmeticos",
+    "palavras_chave": [
+      "rosto ardendo depois de produto",
+      "pele descamando com acido",
+      "produto irritou meu rosto",
+      "vermelhidao depois do skincare",
+      "queimadura por cosmetico",
+      "pele sensibilizada"
+    ],
+    "resposta": "Se um cosmético provocar ardência intensa, vermelhidão ou descamação importante, suspenda o produto e evite outros ativos potencialmente irritantes. Use limpeza suave e hidratante simples se forem tolerados. Não tente neutralizar ácidos com receitas caseiras. Dor intensa, bolhas, inchaço ou sintomas nos olhos exigem avaliação médica; dificuldade para respirar é uma emergência."
+  }
+  
+,
+  {
+    "assunto": "principia",
+    "palavras_chave": [
+      "principia",
+      "produtos principia",
+      "serum principia",
+      "qual produto da principia"
+    ],
+    "resposta": "A Principia oferece produtos para diferentes necessidades, incluindo séruns e hidratantes. A escolha depende do seu tipo de pele, objetivo e tolerância. Confira os ingredientes, a concentração e as instruções do produto específico. Evite escolher um sérum apenas pela popularidade ou combinar vários ativos sem avaliar a compatibilidade."
+  },
+  {
+    "assunto": "creamy",
+    "palavras_chave": [
+      "creamy",
+      "produtos creamy",
+      "acidos creamy",
+      "serum creamy"
+    ],
+    "resposta": "A Creamy possui produtos voltados a diferentes objetivos de skincare. Para escolher um deles, considere sua necessidade, os ingredientes, a tolerância da sua pele e as instruções do fabricante. Produtos com ativos esfoliantes podem irritar se forem usados em excesso. Se você me disser o nome do produto, posso ajudar a entender sua finalidade."
+  },
+  {
+    "assunto": "sallve",
+    "palavras_chave": [
+      "sallve",
+      "produtos sallve",
+      "serum sallve",
+      "hidratante sallve"
+    ],
+    "resposta": "A Sallve oferece produtos de limpeza, hidratação e tratamento facial. A melhor opção depende do seu objetivo e do seu tipo de pele. Verifique a composição e as recomendações do produto específico, especialmente se você já usa ácidos ou tem pele sensível."
+  },
+  {
+    "assunto": "cerave",
+    "palavras_chave": [
+      "cerave",
+      "cerave hidratante",
+      "creme cerave",
+      "limpador cerave"
+    ],
+    "resposta": "A CeraVe oferece limpadores e hidratantes com formulações que incluem ingredientes como ceramidas em vários produtos. Alguns são indicados para pele seca e outros para pele normal ou oleosa. Confira a versão específica e escolha de acordo com as necessidades da sua pele."
+  },
+  {
+    "assunto": "cetaphil",
+    "palavras_chave": [
+      "cetaphil",
+      "hidratante cetaphil",
+      "limpador cetaphil",
+      "cetaphil pele sensivel"
+    ],
+    "resposta": "A Cetaphil possui produtos de limpeza e hidratação para diferentes tipos de pele, incluindo opções para pele sensível. Confira o rótulo e escolha uma formulação adequada às suas necessidades. Mesmo produtos desenvolvidos para pele sensível podem causar reações individuais."
+  },
+  {
+    "assunto": "la roche posay",
+    "palavras_chave": [
+      "la roche posay",
+      "laroche",
+      "effaclar",
+      "anthelios",
+      "cicaplast"
+    ],
+    "resposta": "A La Roche-Posay oferece diferentes linhas de cuidados com a pele. Effaclar é associada principalmente a produtos para pele oleosa e acneica; Anthelios, à proteção solar; e Cicaplast, a produtos voltados ao cuidado e conforto da pele. A finalidade e os ingredientes variam conforme o produto, então confira a versão específica."
+  },
+  {
+    "assunto": "the ordinary",
+    "palavras_chave": [
+      "the ordinary",
+      "produtos the ordinary",
+      "serum the ordinary",
+      "niacinamide the ordinary"
+    ],
+    "resposta": "A The Ordinary oferece produtos com diferentes ingredientes e concentrações. Antes de escolher um sérum, confira a finalidade, as instruções e as combinações recomendadas pelo fabricante. Concentrações mais altas não significam necessariamente melhores resultados e podem aumentar a irritação."
+  },
+  {
+    "assunto": "neutrogena",
+    "palavras_chave": [
+      "neutrogena",
+      "hidratante neutrogena",
+      "hydro boost",
+      "protetor neutrogena"
+    ],
+    "resposta": "A Neutrogena possui produtos de hidratação, limpeza e proteção solar. A adequação depende da formulação específica e das necessidades da pele. Verifique o rótulo e interrompa o uso se houver irritação persistente."
+  },
+  {
+    "assunto": "beber agua e pele",
+    "palavras_chave": [
+      "beber agua melhora a pele",
+      "agua para pele bonita",
+      "quantidade de agua",
+      "hidratacao de dentro para fora"
+    ],
+    "resposta": "Manter uma hidratação adequada é importante para a saúde geral, mas beber água em excesso não elimina acne nem resolve sozinho o ressecamento facial. A pele também depende da barreira cutânea, de fatores ambientais e dos cuidados tópicos. Beba água regularmente conforme sua sede e suas necessidades."
+  },
+  {
+    "assunto": "alimentacao e acne",
+    "palavras_chave": [
+      "alimentacao causa acne",
+      "comida causa espinha",
+      "chocolate causa acne",
+      "dieta para acne",
+      "alimentos para pele bonita"
+    ],
+    "resposta": "A relação entre alimentação e acne varia entre as pessoas. Alguns estudos sugerem associação em determinadas situações com dietas de alta carga glicêmica e, possivelmente, alguns laticínios, mas isso não significa que um alimento específico provoque acne em todo mundo. Evite restrições alimentares desnecessárias e procure um profissional de saúde se precisar de orientação individual."
+  },
+  {
+    "assunto": "receitas caseiras para pele",
+    "palavras_chave": [
+      "receita caseira para manchas",
+      "limão no rosto",
+      "bicarbonato no rosto",
+      "pasta de dente na espinha",
+      "receita caseira para acne",
+      "clarear pele em casa"
+    ],
+    "resposta": "Evite aplicar limão, bicarbonato, pasta de dente ou misturas caseiras agressivas no rosto. Esses ingredientes podem causar irritação, queimaduras ou piorar as manchas. Prefira produtos formulados para uso na pele e, em caso de manchas ou acne persistente, procure orientação dermatológica."
+  },
+  {
+    "assunto": "validade dos cosmeticos",
+    "palavras_chave": [
+      "validade de cosmetico",
+      "produto vencido",
+      "validade do protetor solar",
+      "quanto tempo dura um serum",
+      "cosmetico aberto"
+    ],
+    "resposta": "Confira a validade e o prazo de uso após a abertura indicados na embalagem. Calor, luz e armazenamento inadequado podem comprometer alguns produtos. Não use cosméticos com mudança incomum de cheiro, cor ou textura. No caso do protetor solar vencido, não confie nele para garantir a proteção indicada."
+  },
+  {
+    "assunto": "quando procurar dermatologista",
+    "palavras_chave": [
+      "preciso de dermatologista",
+      "quando ir ao dermatologista",
+      "acne persistente",
+      "mancha que mudou",
+      "pele nao melhora",
+      "problema de pele grave"
+    ],
+    "resposta": "Procure um dermatologista se houver acne persistente ou dolorosa, manchas que mudam de tamanho ou cor, feridas que não cicatrizam, coceira intensa ou irritação que não melhora. Alterações súbitas, inchaço importante ou sintomas nos olhos também merecem avaliação. O DermaChat fornece informações educativas e não substitui diagnóstico ou tratamento profissional."
+  },
+  {
+    "assunto": "rotina simples para pele oleosa",
+    "palavras_chave": [
+      "rotina para pele oleosa",
+      "skincare pele oleosa",
+      "produtos para rosto oleoso",
+      "rotina para controlar brilho"
+    ],
+    "resposta": "Uma rotina simples para pele oleosa pode incluir pela manhã: limpador suave, hidratante leve e protetor solar. À noite: limpeza e hidratante. Se houver uma necessidade específica, como acne ou cravos, você pode considerar um ativo adequado, introduzido gradualmente. Evite lavar o rosto várias vezes para tentar eliminar toda a oleosidade."
+  },
+  {
+    "assunto": "rotina simples para pele seca",
+    "palavras_chave": [
+      "rotina para pele seca",
+      "skincare pele seca",
+      "produtos para pele ressecada",
+      "rotina para rosto seco"
+    ],
+    "resposta": "Para pele seca, prefira um limpador suave, hidratante com ingredientes como ceramidas ou glicerina e protetor solar durante o dia. Evite água muito quente e esfoliação frequente. Se a pele apresentar rachaduras, coceira intensa ou inflamação, procure orientação dermatológica."
+  }
+]

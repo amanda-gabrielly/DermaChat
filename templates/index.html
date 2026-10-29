@@ -1,0 +1,194 @@
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>DermaChat | Seu espaço de skincare</title>
+
+    <link
+        rel="stylesheet"
+        href="{{ url_for('static', filename='css/style.css') }}"
+    >
+</head>
+
+<body>
+    <div class="app-container">
+
+        <!-- Barra lateral -->
+        <aside class="sidebar">
+
+            <div class="brand">
+                <div class="brand-icon">✿</div>
+
+                <div>
+                    <h1>DermaChat</h1>
+                    <span>Seu espaço de skincare</span>
+                </div>
+            </div>
+
+            <button class="new-chat" id="novo-chat" type="button">
+                <span>＋</span>
+                Nova conversa
+            </button>
+
+            <!-- Histórico de conversas -->
+            <div class="history-section">
+                <p class="section-label">CONVERSAS ANTERIORES</p>
+
+                <div id="lista-conversas" class="conversation-list">
+                    <p class="history-empty">
+                        Nenhuma conversa salva ainda.
+                    </p>
+                </div>
+            </div>
+
+            <!-- Informações sobre o DermaChat -->
+            <div class="sidebar-section">
+                <p class="section-label">SOBRE O DERMA</p>
+
+                <div class="sidebar-info">
+                    <span>🌿</span>
+
+                    <div>
+                        <strong>Cuidados com a pele</strong>
+                        <p>Informação para sua rotina.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="sidebar-footer">
+                <span class="status-dot"></span>
+                Assistente educativo
+            </div>
+
+        </aside>
+
+        <!-- Conteúdo principal -->
+        <main class="main-content">
+
+            <header class="topbar">
+                <div>
+                    <span class="eyebrow">SEU GUIA DE SKINCARE</span>
+                    <h2>Vamos cuidar da sua pele?</h2>
+                </div>
+
+                <div class="profile-icon">D</div>
+            </header>
+
+            <!-- Área das mensagens -->
+            <section
+                class="chat-area"
+                id="chat-area"
+                aria-live="polite"
+                aria-label="Mensagens da conversa"
+            >
+                <div class="welcome" id="welcome">
+
+                    <div class="welcome-icon">🌱</div>
+
+                    <span class="eyebrow">
+                        BEM-VINDA AO DERMACHAT
+                    </span>
+
+                    <h3>
+                        Uma rotina de cuidados começa com conhecimento.
+                    </h3>
+
+                    <p>
+                        Tire suas dúvidas sobre ingredientes, produtos
+                        e cuidados básicos com a pele.
+                    </p>
+
+                    <!-- Perguntas sugeridas -->
+                    <div class="suggestions">
+
+                        <button
+                            class="suggestion"
+                            type="button"
+                            data-question="Como cuidar da pele oleosa?"
+                        >
+                            <span>☼</span>
+                            <strong>Pele oleosa</strong>
+                            <small>Como cuidar no dia a dia</small>
+                        </button>
+
+                        <button
+                            class="suggestion"
+                            type="button"
+                            data-question="Para que serve a niacinamida?"
+                        >
+                            <span>✧</span>
+                            <strong>Ingredientes</strong>
+                            <small>Conheça a niacinamida</small>
+                        </button>
+
+                        <button
+                            class="suggestion"
+                            type="button"
+                            data-question="Qual é a ordem dos produtos de skincare?"
+                        >
+                            <span>♡</span>
+                            <strong>Minha rotina</strong>
+                            <small>Ordem dos produtos</small>
+                        </button>
+
+                        <button
+                            class="suggestion"
+                            type="button"
+                            data-question="Por que usar protetor solar?"
+                        >
+                            <span>☀</span>
+                            <strong>Proteção solar</strong>
+                            <small>Cuidados todos os dias</small>
+                        </button>
+
+                    </div>
+                </div>
+            </section>
+
+            <!-- Campo de envio -->
+            <footer class="composer-area">
+
+                <form id="chat-form">
+
+                    <textarea
+                        id="mensagem"
+                        name="mensagem"
+                        placeholder="Escreva sua dúvida sobre skincare..."
+                        rows="1"
+                        aria-label="Digite sua pergunta"
+                        lang="pt-BR"
+                        spellcheck="false"
+                        autocorrect="off"
+                        autocapitalize="sentences"
+                    ></textarea>
+
+                    <button
+                        type="submit"
+                        id="enviar"
+                        aria-label="Enviar mensagem"
+                    >
+                        ↑
+                    </button>
+
+                </form>
+
+                <p class="disclaimer">
+                    O DermaChat oferece informações educativas e não substitui
+                    uma consulta com dermatologista.
+                </p>
+
+            </footer>
+
+        </main>
+
+    </div>
+
+    <script
+        src="{{ url_for('static', filename='js/script.js') }}"
+    ></script>
+
+</body>
+</html>
